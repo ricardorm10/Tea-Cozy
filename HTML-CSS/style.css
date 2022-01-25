@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+
+html{
+    font-family: Helvetica, sans-serif;
+    font-size: 22px;
+    color: seashell;
+    background-color: black;
+    opacity: 0.9;
+}
+
+/* Navigation Bar */
+.logo{
+    height: 50px;
+    margin-left: 10px;
+}
+
+.navigation{
+    text-decoration: underline;
+    text-align: right;
+}
+
+/* Company's Mission */
